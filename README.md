@@ -3,7 +3,7 @@
 ## I am from  :brazil:
 
 [![Linkedin: julia-ramos-guedes](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaslobo/)](https://www.linkedin.com/in/jonaslobo/)
-[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@lobao84)](https://medium.com/@juliaramosguedes/)
+[![Medium: @juliaramosguedes](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@lobao84)](https://medium.com/@lobao84)
 ![](https://medium.com/@lobao84) 
 
 
